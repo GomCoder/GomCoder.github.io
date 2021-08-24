@@ -94,7 +94,7 @@ function hello(){
 마크 다운 문법 \*강조\* 최소하기
 
 ---
-마크다운 포스트 문서 작성시 파일 명: 포스트 제목-일련번호
+마크다운 포스트 문서 작성시 파일 명: 포스트 제목(소문자)-일련번호
 
 [참고 블로그1] https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/
 [참고 블고그2]https://tutorialpost.apptilus.com/code/posts/tools/markdown01-syntax/
