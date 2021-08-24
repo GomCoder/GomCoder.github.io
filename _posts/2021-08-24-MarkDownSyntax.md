@@ -8,12 +8,12 @@ title: "마크다운 문법"
 ##(GFM: Github Flavored Markdown)
 ---
 
-##1. 헤딩
-#Heading1
-##Heading2
-###Heading3
-####Heading4
-#####Heading5
+##1. 헤딩<br>
+#Heading1<br>
+##Heading2<br>
+###Heading3<br>
+####Heading4<br>
+#####Heading5<br>
 ######Heading6
 
 ---
