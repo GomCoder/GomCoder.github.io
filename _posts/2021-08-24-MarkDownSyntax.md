@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "첫 포스팅입니다."
+title: "마크다운 문법"
 ---
 
 
@@ -101,6 +101,8 @@ function hello(){
 
 ---
 마크다운 포스트 문서 작성시 파일 명: 포스트 제목(소문자)-일련번호
-
+(from)
 [참고 블로그1] https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/
+(to)
 [참고 블로그2]https://tutorialpost.apptilus.com/code/posts/tools/markdown01-syntax/
+(to)
