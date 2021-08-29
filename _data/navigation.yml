@@ -4,11 +4,11 @@
 main:
   - title: "Home"
     url: https://gomcoder.github.io/
-  - title: "About"
+  - title: "Menu02"
     url: 
-  - title: "Sample Posts"
+  - title: "Menu03"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Menu04"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Menu05"
     url: /sitemap/
